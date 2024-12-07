@@ -76,7 +76,7 @@ CMakeLists [为CMake编译配置文件]
 - <font size="4">__拨弹电机：M2006 can2+0x203 使用老的ServoMotor类__
 - <font size="4">__摩擦轮电机：M2305 can2+0x201+0x202 使用老的ServoMotor类
 
-![本地路径](./RM_UIC_2025/img/img2.jpg)
+![本地路径](/img/img2.jpg)
 </b>
 
 #### 底盘(C板)电机(can2通信)接线示意图
@@ -84,7 +84,7 @@ CMakeLists [为CMake编译配置文件]
 - <font size="4">__底盘与云台通信：can1通信，本机ID为0x52 ~~(待调试)~~__
 - <font size="4">__配置4个底盘电机为can2通信，ID为0x201->0x204 (待调试)__
 
-![本地路径](./RM_UIC_2025/img/img4.jpg)
+![本地路径](/img/img4.jpg)
 </b>
 
 #### 云台(A板) & 底盘(C板) 接线示意图
@@ -94,4 +94,4 @@ CMakeLists [为CMake编译配置文件]
 - __D-Bus接收机：A板 UART1 串口通信 ~~(待调试)~~__
 </b>
 
-![本地路径](./RM_UIC_2025/img/img3.jpg)
+![本地路径](/img/img3.jpg)
