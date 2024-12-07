@@ -35,8 +35,7 @@ CMakeLists [为CMake编译配置文件]
 ## 接线相关
 
 ### 云台接口定义
-<font size="4">
-云台上开发板是一块 RoboMaster 开发板A，使用的电机如下：
+<font size="4">云台上开发板是一块 RoboMaster 开发板A，使用的电机如下：
 - 开发板A的CAN(ID)为： 0x51
 - 云台与底盘通信： can1+开发板A(ID) 总线通信(主机)
 - pitch电机：GM6020 ~~can2+0x20A 电流控制模式~~ can2+0x205 电流控制模式
